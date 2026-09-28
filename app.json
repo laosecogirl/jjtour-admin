@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "tour",
-    "slug": "snack-9d172313-c96d-40d5-abb2-68a9d5fd3ef3",
+    "name": "jjtour-admin",
+    "slug": "cmu5mckkol9an01wk38oshl4s",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -20,11 +20,16 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.jjtour.admin"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "cmu5mckkol9an01wk38oshl4s"
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "description": "관리자용앱"
+    }
   }
 }
