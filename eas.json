@@ -6,11 +6,6 @@
     "preview": {
       "android": {
         "buildType": "apk"
-      },
-      "credentials": {
-        "android": {
-          "keystore": "auto-generate"
-        }
       }
     }
   }
